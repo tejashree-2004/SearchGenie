@@ -1,17 +1,10 @@
+SEARCH-GENIE
+
 # 🔍 AI Search Agent
 
 An AI-powered search assistant that combines web search, image discovery, and AI image generation in one modern interface.
 
 ---
-
-## 📸 Demo
-
-![AI Search Agent Screenshot](assets/demo.jpeg)
-
-
-
----
-
 ## ✨ Features
 
 - 🌐 AI-powered web search
